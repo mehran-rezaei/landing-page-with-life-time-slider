@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+  @font-face {
+    font-family:Kalameh-regular;
+    src: url(../../public/fonts/woff/KalamehWeb_Bold.woff) format('woff');
+  }
+
+  *{
+    font-family: 'Kalameh-regular' , sans-serif !important;
+  }
+  
+ 
